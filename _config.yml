@@ -48,7 +48,7 @@ linkedin_username: duynguyen1107
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Duy Nguyen, I'm currently Junior Management Information Systems student at San Diego State University. I had experience working in both Finance and IT fields. I hope to have a professional opportunity/internship to learn more in application development, data engineering, system administrations, network infrastructure, or DevOps.
+  Hi, my name is Duy Nguyen. I'm currently Junior Management Information Systems student at San Diego State University. I had experience working in both Finance and IT fields. I hope to have a professional opportunity/internship to learn more in application development, data engineering, system administrations, network infrastructure, or DevOps.
   I am very much open to working in any position in Tech, Finance, or Gaming Industry.
 
 content:
@@ -69,7 +69,7 @@ content:
         quote: >
           Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system.
         description: | # this will include new lines to allow paragraphs
-          My groupmates and me started this project when we were taking the Systems Analysis class in San Diego State University. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze and designed a new effective training & managing system for La Jolla Logic
+          My groupmates and me started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze and designed a new effective training & managing system for La Jolla Logic
     
       - layout: top-middle
         title: DFin App Beta 1.0
@@ -174,7 +174,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in technology some of my other interests and hobbies are:
+      Alongside my interests in technology, some of my other interests and hobbies are:
       - Soccer
       - Gaming
       - Personal Finance
