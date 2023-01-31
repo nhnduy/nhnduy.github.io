@@ -31,7 +31,7 @@ linkedin_username: duynguyen1107
 
 # Additional icon links
 # additional_links:
-- #title: itsgoingto.be
+#title: itsgoingto.be
   #icon: fas fa-globe
   #url: https://www.itsgoingto.be
 # - title: another link
@@ -70,8 +70,7 @@ content:
           Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system.
         description: | # this will include new lines to allow paragraphs
           My groupmates and me started this project when we were taking the Systems Analysis class in San Diego State University. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze and designed a new effective training & managing system for La Jolla Logic
-
-    content:
+    
       - layout: top-middle
         title: DFin App Beta 1.0
         link: github.com/nhnduy/DFin-App-Beta-1.0
@@ -103,7 +102,6 @@ content:
             • Responsible for quality assurance and database processing in the Logistics Department.
             • Assisted to prepare financial statements and analyzed statistics in the Accounting Department.
 
-    content:
       - layout: left
         title: La Jolla Logic
         link: lajollalogic.com
@@ -117,7 +115,6 @@ content:
             • Analyzed the management processes and utilized SCRUM/Agile methodology to design a new effective system using a SaaS application.
             • Improved the ROI from 40% to 292% with the proposed solution.
 
-      content:
       - layout: left
         title: Advanced Real Estate Services - SD
         link: ares-sd.com
@@ -130,7 +127,6 @@ content:
             • Performed accounting and bookkeeping duties including handling monthly bills, preparing tax reports, financial statements, processing account receivable (AR) and account payable (AP), reconciling bank accounts, and other paperwork for multiple shopping plazas and businesses in Missouri, Arizona, Texas, and California.
             • Processed payroll biweekly for employees of multiple businesses in various states.
       
-      content:
       - layout: left
         title: Apple
         link: apple.com
@@ -142,7 +138,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             • Operated on varieties of iPhone models to troubleshoot technical problems, repair and replace damaged parts.
 
-      content:
       - layout: left
         title: IT Services/Computer Repair
         #link: ares-sd.com
@@ -167,7 +162,6 @@ content:
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Current GPA: 3.6/4.0
-    content:
       - layout: left
         title: Grossmont College
         caption: August 2015 - December 2019
