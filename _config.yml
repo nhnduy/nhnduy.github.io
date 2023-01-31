@@ -49,7 +49,7 @@ linkedin_username: duynguyen1107
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Duy Nguyen. I'm currently Junior Management Information Systems student at San Diego State University. I had experience working in both Finance and IT fields. I hope to have a professional opportunity/internship to learn more in application development, data engineering, system administrations, network infrastructure, or DevOps.
-  I am very much open to working in any position in Tech, Finance, or Gaming Industry.
+  I am very much open to working in any positions in Tech, Finance, or Gaming Industry.
 
 content:
   - title: Projects # Title for the section
@@ -69,7 +69,7 @@ content:
         quote: >
           Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system.
         description: | # this will include new lines to allow paragraphs
-          My groupmates and me started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze and designed a new effective training & managing system for La Jolla Logic
+          My groupmates and me started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze and designed a new effective training & managing system for La Jolla Logic.
     
       - layout: top-middle
         title: DFin App Beta 1.0
@@ -85,7 +85,7 @@ content:
         quote: >
           Used APIs and Python libraries to develop an application to visualize and obtain database of individual stocks on the stock market, and Macroeconomics indicators.
         description: | # this will include new lines to allow paragraphs
-          I developed this application when I was learning Python at San Diego State University. In this project, I learned to develop an application from scratch by myself. And I'm proud that I learned to utlize technological resources to create something useful.
+          I developed this application when I was learning Python at SDSU. In this project, I learned to develop an application from scratch by myself. And I'm proud that I learned to utlize technological resources to create something useful.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -128,7 +128,7 @@ content:
             - Processed payroll biweekly for employees of multiple businesses in various states.
       
       - layout: left
-        title: Apple
+        title: Volt/Apple
         link: apple.com
         # link_text: 
         sub_title: Repair Technician
@@ -157,7 +157,7 @@ content:
       - layout: left
         title: San Diego State University
         caption: August 2022 - May 2024
-        sub_title: Bachelor of Science, Management Information System
+        sub_title: Bachelor of Science, Management Information Systems
         #quote: >
           #
         description: | # this will include new lines to allow paragraphs
