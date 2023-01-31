@@ -1,0 +1,199 @@
+# Site
+repository: nhnduy/nhnduy.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Duy Nguyen
+title: IT Associate
+email: duyng1207@gmail.com
+website: www.github.com/nhnduy
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username:  nhnduy
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: duynguyen1107
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+- #title: itsgoingto.be
+  #icon: fas fa-globe
+  #url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile1.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Duy Nguyen, I'm currently Junior Management Information Systems student at San Diego State University. I had experience working in both Finance and IT fields. I hope to have a professional opportunity/internship to learn more in application development, data engineering, system administrations, network infrastructure, or DevOps.
+  I am very much open to working in any position in Tech, Finance, or Gaming Industry.
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: La Jolla Logic - Training & Managing System Analysis
+        link: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
+        # link_text: Project Website
+        additional_links:
+          - title:  La Jolla Logic - Training & Managing System Analysis
+            icon: fab fa-github
+            url: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system.
+        description: | # this will include new lines to allow paragraphs
+          My groupmates and me started this project when we were taking the Systems Analysis class in San Diego State University. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze and designed a new effective training & managing system for La Jolla Logic
+
+    content:
+      - layout: top-middle
+        title: DFin App Beta 1.0
+        link: github.com/nhnduy/DFin-App-Beta-1.0
+        # link_text: Project Website
+        additional_links:
+          - title:  DFin App Beta 1.0
+            icon: fab fa-github
+            url: github.com/nhnduy/DFin-App-Beta-1.0
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Used APIs and Python libraries to develop an application to visualize and obtain database of individual stocks on the stock market, and Macroeconomics indicators.
+        description: | # this will include new lines to allow paragraphs
+          I developed this application when I was learning Python at San Diego State University. In this project, I learned to develop an application from scratch by myself. And I'm proud that I learned to utlize technological resources to create something useful.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Etching Expressions
+        link: etchingexpressions.com
+        # link_text: boringcompany.com
+        sub_title: Operations Coordinator
+        caption: December 2021 - Present
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            • Responsible for managing, troubleshooting, maintaining, licensing, and updating hardware and software assets, as well as resolving IT problems.
+            • Responsible for quality assurance and database processing in the Logistics Department.
+            • Assisted to prepare financial statements and analyzed statistics in the Accounting Department.
+
+    content:
+      - layout: left
+        title: La Jolla Logic
+        link: lajollalogic.com
+        # link_text: boringcompany.com
+        sub_title: System Analyst
+        caption: August 2022 - December 2022
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            • Conducted system optimization research and gap analysis as a system analyst consultant.
+            • Analyzed the management processes and utilized SCRUM/Agile methodology to design a new effective system using a SaaS application.
+            • Improved the ROI from 40% to 292% with the proposed solution.
+
+      content:
+      - layout: left
+        title: Advanced Real Estate Services - SD
+        link: ares-sd.com
+        # link_text: boringcompany.com
+        sub_title: Accountant
+        caption: January 2021 - December 2021
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            • Performed accounting and bookkeeping duties including handling monthly bills, preparing tax reports, financial statements, processing account receivable (AR) and account payable (AP), reconciling bank accounts, and other paperwork for multiple shopping plazas and businesses in Missouri, Arizona, Texas, and California.
+            • Processed payroll biweekly for employees of multiple businesses in various states.
+      
+      content:
+      - layout: left
+        title: Apple
+        link: apple.com
+        # link_text: boringcompany.com
+        sub_title: Repair Technician
+        caption: January 2020 - December 2020
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            • Operated on varieties of iPhone models to troubleshoot technical problems, repair and replace damaged parts.
+
+      content:
+      - layout: left
+        title: IT Services/Computer Repair
+        #link: ares-sd.com
+        # link_text: boringcompany.com
+        sub_title: IT Technician
+        caption: May 2014 - June 2025
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            • Troubleshot hardware & software issues for customers on PC, laptops, tablets, and mobile phones. Installed & maintained applications on various hardware & software.
+            • Assisted businesses with setting up SOHO systems, user account management, helpdesk system, and remote desktop connection system.
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: San Diego State University
+        caption: August 2022 - May 2024
+        sub_title: Bachelor of Science, Management Information System
+        #quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Current GPA: 3.6/4.0
+    content:
+      - layout: left
+        title: Grossmont College
+        caption: August 2015 - December 2019
+        sub_title: Associate of Science, Web Design/IT Support/Business Administration
+        #quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          GPA: 3.6/4.0
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Soccer
+      - Gaming
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
