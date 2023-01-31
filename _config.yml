@@ -15,25 +15,25 @@ website: www.github.com/nhnduy
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+# twitter_username:
 github_username:  nhnduy
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
+# stackoverflow_username: 
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
+# instagram_username: 
 linkedin_username: duynguyen1107
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# xing_username: 
+# pinterest_username: 
+# youtube_username: 
+# googleplus_username: 
+# orcid_username: 
 
 # Additional icon links
 # additional_links:
-#title: itsgoingto.be
+#title: 
   #icon: fas fa-globe
-  #url: https://www.itsgoingto.be
+  #url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -92,63 +92,68 @@ content:
       - layout: left
         title: Etching Expressions
         link: etchingexpressions.com
-        # link_text: boringcompany.com
+        # link_text: 
         sub_title: Operations Coordinator
         caption: December 2021 - Present
+        caption: National City, CA
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            • Responsible for managing, troubleshooting, maintaining, licensing, and updating hardware and software assets, as well as resolving IT problems.
-            • Responsible for quality assurance and database processing in the Logistics Department.
-            • Assisted to prepare financial statements and analyzed statistics in the Accounting Department.
+            - Responsible for managing, troubleshooting, maintaining, licensing, and updating hardware and software assets, as well as resolving IT problems.
+            - Responsible for quality assurance and database processing in the Logistics Department.
+            - Assisted to prepare financial statements and analyzed statistics in the Accounting Department.
 
       - layout: left
         title: La Jolla Logic
         link: lajollalogic.com
-        # link_text: boringcompany.com
+        # link_text: 
         sub_title: System Analyst
         caption: August 2022 - December 2022
+        caption: San Diego, CA
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            • Conducted system optimization research and gap analysis as a system analyst consultant.
-            • Analyzed the management processes and utilized SCRUM/Agile methodology to design a new effective system using a SaaS application.
-            • Improved the ROI from 40% to 292% with the proposed solution.
+            - Conducted system optimization research and gap analysis as a system analyst consultant.
+            - Analyzed the management processes and utilized SCRUM/Agile methodology to design a new effective system using a SaaS application.
+            - Improved the ROI from 40% to 292% with the proposed solution.
 
       - layout: left
-        title: Advanced Real Estate Services - SD
+        title: ARES - SD
         link: ares-sd.com
-        # link_text: boringcompany.com
+        # link_text: 
         sub_title: Accountant
         caption: January 2021 - December 2021
+        caption: San Diego, CA
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            • Performed accounting and bookkeeping duties including handling monthly bills, preparing tax reports, financial statements, processing account receivable (AR) and account payable (AP), reconciling bank accounts, and other paperwork for multiple shopping plazas and businesses in Missouri, Arizona, Texas, and California.
-            • Processed payroll biweekly for employees of multiple businesses in various states.
+            - Performed accounting and bookkeeping duties including handling monthly bills, preparing tax reports, financial statements, processing account receivable (AR) and account payable (AP), reconciling bank accounts, and other paperwork for multiple shopping plazas and businesses in Missouri, Arizona, Texas, and California.
+            - Processed payroll biweekly for employees of multiple businesses in various states.
       
       - layout: left
         title: Apple
         link: apple.com
-        # link_text: boringcompany.com
+        # link_text: 
         sub_title: Repair Technician
         caption: January 2020 - December 2020
+        caption: Elk Grove, CA
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            • Operated on varieties of iPhone models to troubleshoot technical problems, repair and replace damaged parts.
+            - Operated on varieties of iPhone models to troubleshoot technical problems, repair and replace damaged parts.
 
       - layout: left
         title: IT Services/Computer Repair
-        #link: ares-sd.com
-        # link_text: boringcompany.com
+        #link: 
+        # link_text: 
         sub_title: IT Technician
         caption: May 2014 - June 2025
+        caption: Da Nang, Vietnam
         #quote: >
-          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          #
         description: | # this will include new lines to allow paragraphs
-            • Troubleshot hardware & software issues for customers on PC, laptops, tablets, and mobile phones. Installed & maintained applications on various hardware & software.
-            • Assisted businesses with setting up SOHO systems, user account management, helpdesk system, and remote desktop connection system.
+            - Troubleshot hardware & software issues for customers on PC, laptops, tablets, and mobile phones. Installed & maintained applications on various hardware & software.
+            - Assisted businesses with setting up SOHO systems, user account management, helpdesk system, and remote desktop connection system.
 
 
   - title: Education # Title for the section
@@ -159,7 +164,7 @@ content:
         caption: August 2022 - May 2024
         sub_title: Bachelor of Science, Management Information System
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          #
         description: | # this will include new lines to allow paragraphs
           Current GPA: 3.6/4.0
       - layout: left
@@ -167,16 +172,17 @@ content:
         caption: August 2015 - December 2019
         sub_title: Associate of Science, Web Design/IT Support/Business Administration
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          #
         description: | # this will include new lines to allow paragraphs
           GPA: 3.6/4.0
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in technology some of my other interests and hobbies are:
       - Soccer
       - Gaming
+      - Personal Finance
 
 # Footer
 footer_show_references: true
