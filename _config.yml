@@ -162,7 +162,7 @@ content:
           #
         description: | # this will include new lines to allow paragraphs
           - Current GPA: 3.6/4.0
-          - Skills: Python, MySQL, HTML/CSS, JavaScript | Data visualization: Power BI, Tableau | Others: QuickBooks, Google Suite, Adobe Photoshop, Bilingual (Vietnamese & English)
+          - Skills: Python, MySQL, HTML/CSS, JavaScript, Power BI, Tableau, QuickBooks, Google Suite, Bilingual (Vietnamese & English)
       - layout: left
         title: Grossmont College
         caption: August 2015 - December 2019
@@ -171,7 +171,7 @@ content:
           #
         description: | # this will include new lines to allow paragraphs
           - GPA: 3.6/4.0
-          - Skills: HTML/CSS, JavaScript | Microsoft 365: Excel, Word, PowerPoint, Access | Operating System: Windows, Linux
+          - Skills: HTML/CSS, JavaScript, Excel, Word, PowerPoint, Access, Adobe Photoshop, Linux
 
   - title: A Little More About Me
     layout: text
