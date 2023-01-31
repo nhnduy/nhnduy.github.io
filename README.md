@@ -1,3 +1,3 @@
-# [nhnduy.github.io](https://nhnduy.github.io/)
-Resume of Duy Nguyen
+# [Resume of Duy Nguyen](https://nhnduy.github.io/)
 
+![My Image](images/picture-on-mobile.jpg)
