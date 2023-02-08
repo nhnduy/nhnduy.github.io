@@ -67,7 +67,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project
         quote: >
-          Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system.
+          Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system with Power Automate.
         description: | # this will include new lines to allow paragraphs
           My groupmates and I started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodoloty to work collaboratively with my team. We used Data Flow Diagrams to analyze their current system, and designed a new effective training & managing system for La Jolla Logic.
     
