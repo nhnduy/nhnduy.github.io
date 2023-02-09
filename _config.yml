@@ -85,7 +85,7 @@ content:
         quote: >
           Used APIs and Python libraries to develop an application to visualize and obtain database of individual stocks on the stock market, and Macroeconomics indicators.
         description: | # this will include new lines to allow paragraphs
-          I developed this application when I was learning Python at SDSU. In this project, I learned to develop an application from scratch by myself. And I'm proud that I learned to utlize technological resources to create something useful.
+          I developed this application when I was taking the Business Application Programming class at SDSU. In this project, I learned to develop an application from scratch by myself. And I'm proud that I learned to utilize technological resources to create something useful.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
