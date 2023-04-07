@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: La Jolla Logic - Training & Managing System Analysis
+        title: La Jolla Logic - Training & Managing System Analysis (2022)
         link: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
         # link_text: Project Website
         additional_links:
@@ -71,7 +71,7 @@ content:
           My groupmates and I started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodology to work collaboratively with my team. We used Data Flow Diagrams to analyze their current system, and designed a new effective training & managing system for La Jolla Logic.
     
       - layout: top-middle
-        title: DFin App Beta 1.0
+        title: DFin App Beta 1.0 (2022)
         link: github.com/nhnduy/DFin-App-Beta-1.0
         # link_text: Project Website
         additional_links:
