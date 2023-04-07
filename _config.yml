@@ -48,7 +48,7 @@ linkedin_username: duynguyen1107
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Duy Nguyen. I'm currently a junior Management Information Systems student at San Diego State University. I had experience working in both Finance and IT fields. I hope to have a professional opportunity/internship to learn more in application development, data engineering, system administrations, network infrastructure, or DevOps.
+  Experienced IT professional in managing and maintaining computer systems, networks, and servers. I'm skilled in troubleshooting technical issues and implementing solutions to optimize the IT Systems.
 
 content:
   - title: Projects # Title for the section
@@ -88,12 +88,22 @@ content:
   - title: All Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: San Diego Superior Court
+        link: sdcourt.ca.gov
+        # link_text: 
+        sub_title: IT Systems Specialist
+        caption: April 2023 - Present
+        #quote: >
+          #
+        description: | # this will include new lines to allow paragraphs
+           
       - layout: left
         title: Etching Expressions
         link: etchingexpressions.com
         # link_text: 
         sub_title: Operations Coordinator
-        caption: December 2021 - Present
+        caption: December 2021 - April 2023
         #quote: >
           #
         description: | # this will include new lines to allow paragraphs
