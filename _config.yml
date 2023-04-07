@@ -48,7 +48,7 @@ linkedin_username: duynguyen1107
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced IT professional in managing and maintaining computer systems, networks, and servers. I'm skilled in troubleshooting technical issues and implementing solutions to optimize the IT systems. I'm currently working for San Diego Superior Court as an IT Systems Specialist.
+  Experienced IT professional in managing and maintaining computer systems, networks, and servers. I love to work and collaborate with other people to troubleshoot technical issues and implement solutions to optimize the IT systems. I'm currently working for San Diego Superior Court as an IT Systems Specialist.
 
 content:
   - title: Projects # Title for the section
