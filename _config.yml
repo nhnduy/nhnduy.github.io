@@ -96,7 +96,7 @@ content:
         caption: April 2023 - Present
         #quote: >
           #
-        description: | # this will include new lines to allow paragraphs
+        description: | #  this will include new lines to allow paragraphs
             - Responsible for administering and troubleshooting IT issues including network, audio/video systems, servers, account credentials, applications, and peripheral devices.
             - Managed and maintained the organization's IT asset inventory, ensuring accurate tracking and documentation of hardware, software, and technology resources.
             - Skills: ServiceNow, Active Directory, System Administration, Cisco Systems Products, Technical Support.
