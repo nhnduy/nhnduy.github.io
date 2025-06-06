@@ -97,9 +97,8 @@ content:
         #quote: >
           #
         description: | #  this will include new lines to allow paragraphs
-            - Responsible for administering and troubleshooting IT issues including network, audio/video systems, servers, account credentials, applications, and peripheral devices.
-            - Managed and maintained the organization's IT asset inventory, ensuring accurate tracking and documentation of hardware, software, and technology resources.
-            - Skills: ServiceNow, Active Directory, System Administration, Cisco Systems Products, Technical Support.
+            - Responsible for monitoring and analyzing cybersecurity alerts and logs from Intrusion Detection Systems (IDS), and Network Detection and Response (NDR).
+            - Responsible for documenting and organizing cybersecurity processes, incident response plans, and cybersecurity awareness campaigns for more than 1100 users.
            
       - layout: left
         title: Etching Expressions
@@ -183,14 +182,7 @@ content:
           #
         description: | # this will include new lines to allow paragraphs
           - GPA: 3.6/4.0
-          - Skills: HTML/CSS, JavaScript, Excel, Word, PowerPoint, Access, Adobe Photoshop, Linux
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in technology, some of my other interests and hobbies are:
-      - Soccer
-      - Investing and Personal Finance
+          - Skills: Active Directory, SIEM, ExtraHop, CrowdStrike, Zscaler, Fortra, Python, JavaScript
 
 
 # Footer
