@@ -98,7 +98,8 @@ content:
           #
         description: | #  this will include new lines to allow paragraphs
             - Responsible for monitoring and analyzing cybersecurity alerts and logs from Intrusion Detection Systems (IDS), and Network Detection and Response (NDR).
-            - Responsible for documenting and organizing cybersecurity processes, incident response plans, and cybersecurity awareness campaigns for more than 1100 users.
+            - Responsible for designing, documenting and organizing cybersecurity processes, incident response plans, and cybersecurity awareness campaigns for more than 1100 users.
+            - Skills: Active Directory, SIEM, ExtraHop, CrowdStrike, Zscaler, Fortra, Python, JavaScript.
            
       - layout: left
         title: Etching Expressions
@@ -182,7 +183,7 @@ content:
           #
         description: | # this will include new lines to allow paragraphs
           - GPA: 3.6/4.0
-          - Skills: Active Directory, SIEM, ExtraHop, CrowdStrike, Zscaler, Fortra, Python, JavaScript
+          
 
 
 # Footer
