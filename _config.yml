@@ -51,40 +51,6 @@ about_content: | # this will include new lines to allow paragraphs
   Experienced IT professional in managing and maintaining cybersecurity processes, computer systems, networks, and servers. I love to work and collaborate with other people to troubleshoot technical issues and implement solutions to optimize and protect the IT systems. I'm currently working for San Diego Superior Court as an IT Systems Specialist.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: La Jolla Logic - Training & Managing System Analysis (2022)
-        link: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
-        # link_text: Project Website
-        additional_links:
-          - title:  La Jolla Logic - Training & Managing System Analysis
-            icon: fab fa-github
-            url: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
-          # - title:  Github page for project
-          #   icon: fab fa-github
-          #   url: Link to project
-        quote: >
-          Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system with Power Automate.
-        description: | # this will include new lines to allow paragraphs
-          My groupmates and I started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodology to work collaboratively with my team. We used Data Flow Diagrams to analyze their current system, and designed a new effective training & managing system for La Jolla Logic.
-    
-      - layout: top-middle
-        title: DFin App Beta 1.0 (2022)
-        link: github.com/nhnduy/DFin-App-Beta-1.0
-        # link_text: Project Website
-        additional_links:
-          - title:  DFin App Beta 1.0
-            icon: fab fa-github
-            url: github.com/nhnduy/DFin-App-Beta-1.0
-          # - title:  Github page for project
-          #   icon: fab fa-github
-          #   url: Link to project
-        quote: >
-          Used APIs and Python libraries to develop an application to visualize and obtain database of individual stocks on the stock market, and Macroeconomics indicators.
-        description: | # this will include new lines to allow paragraphs
-          I developed this application when I was taking the Business Application Programming class at SDSU. In this project, I learned to develop an application from scratch by myself. I'm pleased to have gained the knowledge of using technological resources to produce something of practical value.
   - title: All Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -97,22 +63,23 @@ content:
         #quote: >
           #
         description: | #  this will include new lines to allow paragraphs
-            - Responsible for monitoring and analyzing cybersecurity alerts and logs from Intrusion Detection Systems (IDS), and Network Detection and Response (NDR).
-            - Responsible for designing, documenting and organizing cybersecurity processes, incident response plans, and cybersecurity awareness campaigns for more than 1100 users.
-            - Skills: Active Directory, SIEM, ExtraHop, CrowdStrike, Zscaler, Fortra, Python, JavaScript.
+            - Monitored and analyzed security alerts and logs from Intrusion Detection Systems (IDS), Network Detection and Response (NDR) platforms, and vulnerability scanners.
+            - Supported enterprise SSL/TLS certificate renewals (quarterly and annual) for internal web applications, ensuring continuous security compliance and zero service disruptions.
+            - Documented and organized cybersecurity processes, incident response plans, and KnowBe4 security awareness campaigns for internal users.
+            - Resolved other general IT desktop issues.
+            - Skills: Programming languages: Python, SQL, HTML/CSS, JavaScript | Active Directory, SIEM, ExtraHop, CrowdStrike, Zscaler, Fortra, Microsoft Azure, Microsoft Exchange Server, Microsoft 365: Excel, Word, PowerPoint| Operating System: Windows, Linux
            
       - layout: left
         title: Etching Expressions
         link: etchingexpressions.com
         # link_text: 
-        sub_title: Operations Coordinator
+        sub_title: IT Operations Coordinator
         caption: December 2021 - April 2023
         #quote: >
           #
         description: | # this will include new lines to allow paragraphs
-            - Responsible for managing, troubleshooting, maintaining, licensing, and updating hardware and software assets, as well as resolving IT problems.
-            - Coordinated with the development engineers and prepared test plans to ensure the functionality of the company’s application.
-            - Responsible for quality assurance and database processing in the Logistics Department.
+            - Managed, troubleshot, and maintained hardware and software assets, including licensing and updates, while administering Microsoft Azure, Microsoft Exchange, and Office 365.
+            - Provided technical support by diagnosing and resolving general IT issues for end users.
 
       - layout: left
         title: La Jolla Logic
@@ -163,6 +130,88 @@ content:
             - Assisted businesses with setting up SOHO systems, user account management, helpdesk system, and remote desktop connection system.
 
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: top-middle
+        title: KnowBe4 Cybersecurity Campaign - San Diego Superior Court (2025) 
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title: KnowBe4 Cybersecurity Campaign - San Diego Superior Court (2025) 
+            icon: fab fa-github
+            url:
+          # - title:  Github page for project
+          #   icon: fab fa-github
+          #   url: Link to project
+        quote: >
+          An annual project to raise cybersecurity awareness for internal users of San Diego Superior Court.
+        description: | # this will include new lines to allow paragraphs
+          Assisted in developing KnowBe4 cybersecurity awareness training campaigns for court users.     
+    
+       - layout: top-middle
+        title: Windows Hello - San Diego Superior Court (2025) 
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title: Windows Hello - San Diego Superior Court (2025)
+            icon: fab fa-github
+            url:
+          # - title:  Github page for project
+          #   icon: fab fa-github
+          #   url: Link to project
+        quote: >
+          A project to enhance security at San Diego Superior Court.
+        description: | # this will include new lines to allow paragraphs
+          Coordinated with desktop engineering and support teams to deploy Windows Hello across courtroom computers to improve authentication security.   
+        
+      - layout: top-middle
+        title: TasteWorld Cafe Website (2023)
+        link: github.com/nhnduy/TasteWorldCafe
+        # link_text: Project Website
+        additional_links:
+          - title:  TasteWorld Cafe Website (2023)
+            icon: fab fa-github
+            url: github.com/nhnduy/TasteWorldCafe
+          # - title:  Github page for project
+          #   icon: fab fa-github
+          #   url: Link to project
+        quote: >
+          Website for a small business.
+        description: | # this will include new lines to allow paragraphs
+          Managed the technical implementation of the project, utilizing Amazon EC2, AWS Route 53, AWS S3, Bitnami, WordPress, and MySQL to support the website’s frontend & backend infrastructure.
+
+      - layout: top-middle
+        title: La Jolla Logic - Training & Managing System Analysis (2022)
+        link: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
+        # link_text: Project Website
+        additional_links:
+          - title:  La Jolla Logic - Training & Managing System Analysis
+            icon: fab fa-github
+            url: github.com/nhnduy/LaJollaLogic-Training-System-Analysis
+          # - title:  Github page for project
+          #   icon: fab fa-github
+          #   url: Link to project
+        quote: >
+          Analyzed the current tracking & managing system of La Jolla Logic - a cybersecurity solution firm in San Diego, and designed a new effective system with Power Automate.
+        description: | # this will include new lines to allow paragraphs
+          My groupmates and I started this project when we were taking the Systems Analysis class at SDSU. In this project, I learned to utilize Agile methodology to work collaboratively with my team. We used Data Flow Diagrams to analyze their current system, and designed a new effective training & managing system for La Jolla Logic.
+    
+      - layout: top-middle
+        title: DFin App Beta 1.0 (2022)
+        link: github.com/nhnduy/DFin-App-Beta-1.0
+        # link_text: Project Website
+        additional_links:
+          - title:  DFin App Beta 1.0
+            icon: fab fa-github
+            url: github.com/nhnduy/DFin-App-Beta-1.0
+          # - title:  Github page for project
+          #   icon: fab fa-github
+          #   url: Link to project
+        quote: >
+          Used APIs and Python libraries to develop an application to visualize and obtain database of individual stocks on the stock market, and Macroeconomics indicators.
+        description: | # this will include new lines to allow paragraphs
+          I developed this application when I was taking the Business Application Programming class at SDSU. In this project, I learned to develop an application from scratch by myself. I'm pleased to have gained the knowledge of using technological resources to produce something of practical value.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
