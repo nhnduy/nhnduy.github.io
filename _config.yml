@@ -133,7 +133,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-        - layout: top-middle
+      - layout: top-middle
         title: KnowBe4 Cybersecurity Campaign - San Diego Superior Court (2025) 
         link: 
         # link_text: Project Website
@@ -149,7 +149,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Assisted in developing KnowBe4 cybersecurity awareness training campaigns for court users.     
     
-       - layout: top-middle
+      - layout: top-middle
         title: Windows Hello - San Diego Superior Court (2025) 
         link: 
         # link_text: Project Website
