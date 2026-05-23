@@ -149,7 +149,7 @@ content:
         quote: >
           An annual project to raise cybersecurity awareness for internal users of San Diego Superior Court.
         description: | # this will include new lines to allow paragraphs
-          Assisted in developing KnowBe4 cybersecurity awareness training campaigns for court users.     
+          Assisted in developing SANS/KnowBe4 cybersecurity awareness training campaigns for court users.     
     
       - layout: top-middle
         title: Windows Hello - San Diego Superior Court (2025) 
