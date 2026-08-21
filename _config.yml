@@ -67,7 +67,7 @@ content:
         description: | #  this will include new lines to allow paragraphs
             - Monitored and analyzed security alerts and logs from Intrusion Detection Systems (IDS), Network Detection and Response (NDR) platforms, and vulnerability scanners.
             - Supported enterprise SSL/TLS certificate renewals (quarterly and annual) for internal web applications, ensuring continuous security compliance and zero service disruptions.
-            -  Configured and maintained security policies and settings within Cloudflare and Zscaler to support secure web access, applications protection, traffic filtering, and organizational security requirements.
+            - Configured and maintained security policies and settings within Cloudflare and Zscaler to support secure web access, applications protection, traffic filtering, and organizational security requirements.
             - Documented and organized cybersecurity processes, incident response plans, and KnowBe4 security awareness campaigns for internal users.
             - Resolved other general IT desktop issues.
             - Skills: Python, SQL, HTML/CSS, JavaScript, Active Directory, SIEM, ExtraHop, CrowdStrike, Zscaler, Fortra, Microsoft Azure, Microsoft Exchange Server, Microsoft 365: Excel, Word, PowerPoint, Windows, Linux.
